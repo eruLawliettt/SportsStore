@@ -132,3 +132,4 @@ C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\refint
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.pdb
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.genruntimeconfig.cache
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\ref\SportsStore.dll
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.sourcelink.json
