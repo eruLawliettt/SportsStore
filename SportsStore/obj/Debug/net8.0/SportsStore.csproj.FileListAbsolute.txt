@@ -118,6 +118,7 @@ C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\Sports
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.RazorAssemblyInfo.cache
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.RazorAssemblyInfo.cs
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.sourcelink.json
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\staticwebassets\msbuild.SportsStore.Microsoft.AspNetCore.StaticWebAssets.props
@@ -132,4 +133,4 @@ C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\refint
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.pdb
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.genruntimeconfig.cache
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\ref\SportsStore.dll
-C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.sourcelink.json
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

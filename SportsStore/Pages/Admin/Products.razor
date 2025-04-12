@@ -29,6 +29,10 @@
                                  href="@GetEditUrl(p.Id ?? 0)">
                             Edit
                         </NavLink>
+                        <button class="btn btn-danger btn-sm"
+                            @onclick="@(e => DeleteProduct(p))"> 
+                        Delete
+                        </button>
                     </td>
                 </tr>
             }
@@ -48,12 +52,20 @@
 
     public IEnumerable<Product> ProductData { get; set; } = [];
 
-    protected async override Task OnInitializedAsync() {
+    protected async override Task OnInitializedAsync() 
+    {
         await UpdateData();
     }
 
-    public async Task UpdateData() {
+    public async Task UpdateData() 
+    {
         ProductData = await Repository.Products.ToListAsync();
+    }
+
+    public async Task DeleteProduct(Product p)
+    {
+        Repository.DeleteProduct(p);
+        await UpdateData();
     }
 
     public string GetDetailsUrl(long id) => $"/admin/products/details/{id}";

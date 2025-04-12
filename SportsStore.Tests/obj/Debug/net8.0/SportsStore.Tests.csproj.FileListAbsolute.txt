@@ -125,3 +125,4 @@ C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Debug\net8.0\
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.pdb
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.genruntimeconfig.cache
 C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Debug\net8.0\ref\SportsStore.Tests.dll
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.sourcelink.json
