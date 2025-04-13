@@ -1,0 +1,7 @@
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\bin\Release\net8.0\CoverletSourceRootsMapping_SportsStore.Tests
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Release\net8.0\SportsStore.Tests.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Release\net8.0\SportsStore.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Release\net8.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Release\net8.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Release\net8.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\AF_MVC\SportsSln\SportsStore.Tests\obj\Release\net8.0\SportsStore.Tests.sourcelink.json

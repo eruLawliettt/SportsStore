@@ -1,0 +1,21 @@
+version: "3"
+services:
+  sportstore:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5433;Database=SportsStore;Username=postgres;Password=qq14mn00
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_DB: SportsStore
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: qq14mn00
+    ports:
+      - "5433:5433"
